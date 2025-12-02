@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "isbn": "1234",
+        "status": "available"
+    },
+    {
+        "title": "Mathematics for ICSE Class 10",
+        "author": "ML Agarwal",
+        "isbn": "12234",
+        "status": "available"
+    },
+    {
+        "title": "Wings Of Fire",
+        "author": "A.P.J. Abdul Kalam",
+        "isbn": "12343",
+        "status": "available"
+    }
+]
